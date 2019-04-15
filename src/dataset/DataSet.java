@@ -79,7 +79,7 @@ public class DataSet extends Application {
     }
 
     public static void read1() throws FileNotFoundException {
-        Scanner scanner = new Scanner(new File("C:\\Users\\zero1\\Documents\\Digital Preservation\\dataset\\NCHS_-_Childhood_Mortality_Rates.csv"));
+        Scanner scanner = new Scanner(new File("C:\\Users\\zero1\\Documents\\NetBeansProjects\\DataSet\\src\\file\\NCHS_-_Childhood_Mortality_Rates.csv"));
         scanner.useDelimiter("\n");
 
         Map<String, ArrayList<String>> linesMap = new HashMap<>();
@@ -142,7 +142,7 @@ public class DataSet extends Application {
 
         String[] array = null;
         String[] arrayyear = null;
-        Scanner scanner = new Scanner(new File("C:\\Users\\zero1\\Documents\\Digital Preservation\\dataset\\الدخل\\real-mean-family-and-personal-income-in-the-us\\real-mean-family-income-in-the-united-states.csv"));
+        Scanner scanner = new Scanner(new File("C:\\Users\\zero1\\Documents\\NetBeansProjects\\DataSet\\src\\file\\real-mean-family-income-in-the-united-states.csv"));
         scanner.useDelimiter(",");
         String line = "";
         while (scanner.hasNext()) {
