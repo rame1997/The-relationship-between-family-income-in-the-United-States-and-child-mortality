@@ -20,7 +20,7 @@ Project is created with:
 ## Prerequisites
 Prior to running the experiment make sure that the following folders exist:
 * `data/raw`- Folder to store raw data sets
-* `Data / Process`- A folder to store the processed data set
+* `data / Process`- A folder to store the processed data set
 * `Reports / Numbers`- The folder contains a picture of the relationship
  ## Sources
 The resulting relationship is the integration of a two-dataset:
