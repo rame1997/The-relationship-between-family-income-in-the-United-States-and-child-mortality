@@ -10,7 +10,8 @@
 * [Other_information](#Other_information)
 * [Architecture](#Architecture)
 ## General info
-This study aims to explore the relationship between family income and the rate of child mortality in the United States.	
+This study aims to explore the relationship between family income and the rate of child mortality in the United States.
+ ![Algorithm schema](image/image.png)
 ## Technologies
 Project is created with:
 * The language of Java: jdk1.8.0_151
