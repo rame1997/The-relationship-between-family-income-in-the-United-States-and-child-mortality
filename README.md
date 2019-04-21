@@ -24,7 +24,7 @@ Project is created with:
 Prior to running the experiment make sure that the following folders exist:
 * `data/raw`- Folder to store raw data sets
 * `data / Process`- A folder to store the processed data set
-* `Reports / Numbers`- The folder contains a picture of the relationship
+* `image/image`- The file contains a picture of the relationship
  ## Sources
 The resulting relationship is the integration of a two-dataset:
 https://catalog.data.gov/dataset/childhood-mortality-rates-by-age-at-death-united-states-1900-2013
