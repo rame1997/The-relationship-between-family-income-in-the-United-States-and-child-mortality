@@ -35,4 +35,4 @@ Once the code is run on the program, the two data set will be taken and the rela
 Data licenses that are the Creative Commons Attribution-ShareAlike (CC-BY-SA) License
  and The code is open source
  ## Architecture
- ![Algorithm schema](uml.png)
+ ![Algorithm schema](image/uml.png)
