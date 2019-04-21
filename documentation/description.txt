@@ -1,0 +1,4 @@
+The X-axis describes the timeline in which the data were analyzed.
+The Y axis describes both child mortality and household income in the United States.
+Family income is a documented data set in the United States of America.
+The death rate of children is the death rate of children of 100,000 children in the United States, aged 1 to 19 years.
