@@ -1,4 +1,3 @@
-[![DOI](https://zenodo.org/badge/DOI/10.1997/rami.bar.svg)](https://doi.org/10.1997/rami.bar)
 # The relationship between family income in the United States and child mortality
 ## Table of contents
 * [General info](#general-info)
